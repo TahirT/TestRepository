@@ -1,0 +1,61 @@
+1:kur te hapet faqja lajmerimi per perdorim te lokacionit (p.sh this aplication relies heavily on your location)
+
+2: PopUps
+
+3:display none-block te colesest cities me shenim te emailit
+
+4: Ne shiritin e kalter nalt me shenu Location country : -.-.-.-
+
+5:  real time Clock
+
+teknologjite:
+JavaScript
+HTML
+CSS
+Firebase / Firestore
+Fetch API
+LocalStorage
+Koncepte:
+REST API
+Responsive Design
+DB
+Client Server
+webhost
+
+
+Shtojme firestrore databazen
+MOS SHENO FJALI vetem Pika.
+QFARE Ben faqja juaj?
+--> dmth merr motin nga qytetet , ruan qytete e fundit te kerkuara , skanon qytete me te aferta
+
+
+
+Fetch e bën më të lehtë për të bërë kërkesa në internet dhe për të trajtuar përgjigjet e marra. 
+Fetch ne kete rast  eshte perdorur per te marr te dhenat e motit per lokacionin e deshirurar dhe 
+duke perdorur REST API te dhenat na kthehen ne forme Json 
+
+Local Storage eshte perdorur per te ruajtur kerkesat e shfrytezuesit nga search bar per qyetet e 
+kerkuara dhe i shfaq ne kerkimet e fundit.
+
+
+
+WEBHOOK- Webhooks are automated messages sent from apps when something happens. 
+They have a message—or payload—and are sent to a unique URL—essentially the app's phone number or address.
+
+POSTMAN -  Postman is a popular API client that makes it easy for developers to create, share, test and document APIs. This is done by allowing users to create and save simple and complex HTTP/s requests, as well as read their responses.
+
+REQBIN - is an online API client and API testing tool for developers and testers
+
+BEECEPTOR - mock api server.
+
+hostname
+notifly.app
+
+rest api
+backbonejs
+nodejs
+express.js
+google cloud platform
+
+
+shadow  & bone
